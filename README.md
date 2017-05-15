@@ -9,6 +9,8 @@ run mongo service in terminal: mongod -dbpath {MONGO_DATA_FOLDER}
 
 Import AccessControlService as an Existin Maven Project
 
+Update project dependencies
+
 Add project to Wildfly10 server configured with default port 8080
 
-start Wildfly10 server
+Start Wildfly10 server
