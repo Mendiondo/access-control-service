@@ -1,11 +1,11 @@
 # access-control-service
 Backend java server to Access Control App
 
-#Mongo
+# Mongo
 
 run mongo service in terminal: mongod -dbpath {MONGO_DATA_FOLDER}
 
-#Java
+# Java
 
 Import AccessControlService as an Existin Maven Project
 
